@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aterasme.github.io/sitemap.aterasme.gz
+Sitemap: https://aterasme.github.io/app/sitemap.aterasme.gz
+Sitemap: https://aterasme.github.io/assets/sitemap.aterasme.gz
+Sitemap: https://aterasme.github.io/css/sitemap.aterasme.gz
+Sitemap: https://aterasme.github.io/data/sitemap.aterasme.gz
+Sitemap: https://aterasme.github.io/includes/sitemap.aterasme.gz
+Sitemap: https://aterasme.github.io/item/sitemap.aterasme.gz
+Sitemap: https://aterasme.github.io/src/sitemap.aterasme.gz
